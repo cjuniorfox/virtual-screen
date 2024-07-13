@@ -58,7 +58,7 @@ The script handles the `SIGINT` signal (Ctrl-C) to clean up and remove the headl
 
 ## Example Script
 
-The complete script is available on [GitHub](<repository-url>).
+The complete script is available on [GitHub](<hyprland-start-2nd-screen.py>).
 
 ## License
 
